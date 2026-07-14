@@ -1,0 +1,25 @@
+name: persian_calendar_utils
+description: >
+  A comprehensive utility-function library for working with four calendar
+  systems (Persian/Jalali, Gregorian, Islamic/Hijri, and Nepali/Bikram
+  Sambat), built on top of the persian_calendar package. Includes
+  conversion, formatting, date-difference/addition, status checks, and
+  helper functions for building calendar widgets.
+version: 1.0.0
+homepage: https://github.com/syedmohdbarzgar/persian_calendar_utils
+repository: https://github.com/syedmohdbarzgar/persian_calendar_utils
+issue_tracker: https://github.com/syedmohdbarzgar/persian_calendar_utils/issues
+
+publish_to: none
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  persian_calendar:
+    git:
+      url: https://github.com/syedmohdbarzgar/persian_calendar.git
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6

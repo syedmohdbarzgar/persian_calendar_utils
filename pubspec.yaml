@@ -5,7 +5,7 @@ description: >
   Sambat), built on top of the persian_calendar package. Includes
   conversion, formatting, date-difference/addition, status checks, and
   helper functions for building calendar widgets.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/syedmohdbarzgar/persian_calendar_utils
 repository: https://github.com/syedmohdbarzgar/persian_calendar_utils
 issue_tracker: https://github.com/syedmohdbarzgar/persian_calendar_utils/issues

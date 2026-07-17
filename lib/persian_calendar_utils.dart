@@ -18,3 +18,4 @@ export 'src/persian/persian_utils.dart';
 export 'src/gregorian/gregorian_utils.dart';
 export 'src/islamic/islamic_utils.dart';
 export 'src/nepali/nepali_utils.dart';
+export 'src/kurdish/kurdish_utils.dart';

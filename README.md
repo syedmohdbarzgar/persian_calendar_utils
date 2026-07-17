@@ -15,9 +15,9 @@ This package provides conversion, formatting, date arithmetic, status checks, an
 
 | Badge | Status |
 |-------|--------|
-| Version | `1.0.0` |
+| Version | `1.1.0` |
 | Dart SDK | `^3.12.2` |
-| License | [MIT](LICENCE) |
+| License | [GPL-2.0](LICENCE) |
 | Platform | Dart VM / Flutter |
 
 ---

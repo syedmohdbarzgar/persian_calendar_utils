@@ -11,6 +11,7 @@
 /// 6. Cross-calendar conversion functions — [src/core/converters.dart]
 library;
 
+export 'package:persian_calendar/persian_calendar.dart';
 export 'src/core/generic.dart';
 export 'src/core/converters.dart';
 export 'src/persian/persian_utils.dart';
